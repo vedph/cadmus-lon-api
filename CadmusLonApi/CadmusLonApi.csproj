@@ -16,10 +16,8 @@
 		<PackageReference Include="Cadmus.Graph.Ef.PgSql" Version="7.0.3" />
 		<PackageReference Include="Cadmus.Graph.Extras" Version="7.0.3" />
 		<PackageReference Include="Cadmus.Febo.Services" Version="0.0.2" />
-		<PackageReference Include="Cadmus.Lon.Services" Version="0.0.1" />
-		<PackageReference Include="Cadmus.Seed.Codicology.Parts" Version="6.0.3" />
+		<PackageReference Include="Cadmus.Lon.Services" Version="0.0.2" />
 		<PackageReference Include="Cadmus.Seed.General.Parts" Version="6.1.0" />
-		<PackageReference Include="Cadmus.Seed.Philology.Parts" Version="8.2.0" />
 		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
 		<PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.6" />
 		<PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
