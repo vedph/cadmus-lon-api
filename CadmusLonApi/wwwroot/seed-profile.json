@@ -1,0 +1,551 @@
+{
+  "facets": [
+    {
+      "id": "letter",
+      "label": "letter",
+      "description": "The letter facet",
+      "colorKey": "86ACEB",
+      "partDefinitions": [
+        {
+          "typeId": "it.vedph.metadata",
+          "name": "metadata",
+          "description": "Generic metadata.",
+          "isRequired": true,
+          "colorKey": "F8C0C0",
+          "groupKey": "general",
+          "sortKey": "a"
+        },
+        {
+          "typeId": "it.vedph.external-ids",
+          "roleId": "letter",
+          "name": "letter IDs",
+          "description": "External identifiers for the letter.",
+          "colorKey": "BEE0CA",
+          "groupKey": "general",
+          "sortKey": "b"
+        },
+        {
+          "typeId": "it.vedph.external-ids",
+          "roleId": "corr",
+          "name": "corr. IDs",
+          "description": "External identifiers for the correspondents.",
+          "colorKey": "80AB8F",
+          "groupKey": "general",
+          "sortKey": "c"
+        },
+        {
+          "typeId": "it.vedph.chronotopes",
+          "name": "chronotopes",
+          "description": "Date/time indications.",
+          "colorKey": "F887C8",
+          "groupKey": "general",
+          "sortKey": "d"
+        },
+        {
+          "typeId": "it.vedph.pin-links",
+          "name": "links",
+          "description": "Pin-based links.",
+          "colorKey": "A0C0F8",
+          "groupKey": "general",
+          "sortKey": "e"
+        },
+        {
+          "typeId": "it.vedph.categories",
+          "name": "categories",
+          "description": "Letter's categories.",
+          "colorKey": "98F8F8",
+          "groupKey": "content",
+          "sortKey": "f"
+        },
+        {
+          "typeId": "it.vedph.lon.letter-info",
+          "name": "info",
+          "description": "Letter's information.",
+          "colorKey": "8CF263",
+          "groupKey": "content",
+          "sortKey": "g"
+        },
+        {
+          "typeId": "it.vedph.lon.letter-attachments",
+          "name": "attachments",
+          "description": "Letter's attachments.",
+          "colorKey": "BAC45A",
+          "groupKey": "content",
+          "sortKey": "h"
+        },
+        {
+          "typeId": "it.vedph.comment",
+          "name": "summary",
+          "description": "Content's summary.",
+          "colorKey": "B2E0AA",
+          "groupKey": "content",
+          "sortKey": "i"
+        },
+        {
+          "typeId": "it.vedph.note",
+          "roleId": "dsc",
+          "name": "description",
+          "description": "Material description.",
+          "colorKey": "B0A0F8",
+          "groupKey": "content",
+          "sortKey": "j"
+        },
+        {
+          "typeId": "it.vedph.note",
+          "roleId": "incipit",
+          "name": "incipit",
+          "description": "Letter's incipit.",
+          "colorKey": "A0BCF8",
+          "groupKey": "content",
+          "sortKey": "k"
+        },
+        {
+          "typeId": "it.vedph.note",
+          "roleId": "explicit",
+          "name": "explicit",
+          "description": "Letter's explicit.",
+          "colorKey": "48A5DB",
+          "groupKey": "content",
+          "sortKey": "l"
+        },
+        {
+          "typeId": "it.vedph.note",
+          "roleId": "text",
+          "name": "text",
+          "description": "Letter's text.",
+          "colorKey": "53BDA4",
+          "groupKey": "content",
+          "sortKey": "m"
+        },
+        {
+          "typeId": "it.vedph.lon.quoted-works",
+          "name": "works",
+          "description": "Works quoted in the letter.",
+          "colorKey": "C8D1A1",
+          "groupKey": "editorial",
+          "sortKey": "n"
+        },
+        {
+          "typeId": "it.vedph.ext-bibliography",
+          "name": "biblio",
+          "description": "External bibliography.",
+          "colorKey": "B4CC4E",
+          "groupKey": "editorial",
+          "sortKey": "o"
+        },
+        {
+          "typeId": "it.vedph.note",
+          "roleId": "note",
+          "name": "note",
+          "description": "A free text note.",
+          "colorKey": "9285A6",
+          "groupKey": "editorial",
+          "sortKey": "p"
+        }
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "id": 1,
+      "label": "complete",
+      "description": "The item is complete.",
+      "colorKey": "F0B880"
+    },
+    {
+      "id": 2,
+      "label": "revised",
+      "description": "The item has been revised.",
+      "colorKey": "60CF60"
+    },
+    {
+      "id": 4,
+      "label": "undisclosed",
+      "description": "The item is undisclosed.",
+      "colorKey": "CF6069"
+    }
+  ],
+  "index": {
+    "writer": {
+      "id": "item-index-writer.ef-pg"
+    },
+    "reader": {
+      "id": "item-index-reader.ef-pg"
+    }
+  },
+  "graph": {
+    "repository": {
+      "id": "graph-repository.ef-pg"
+    }
+  },
+  "browsers": [
+    {
+      "id": "it.vedph.item-browser.mongo.hierarchy"
+    }
+  ],
+  "thesauri": [
+    {
+      "id": "model-types@en",
+      "entries": [
+        {
+          "id": "it.vedph.metadata",
+          "value": "metadata"
+        },
+        {
+          "id": "it.vedph.categories",
+          "value": "categories"
+        },
+        {
+          "id": "it.vedph.external-ids",
+          "value": "external IDs"
+        },
+        {
+          "id": "it.vedph.chronotopes",
+          "value": "chronotopes"
+        },
+        {
+          "id": "it.vedph.lon.letter-attachments",
+          "value": "attachments"
+        },
+        {
+          "id": "it.vedph.lon.quoted-works",
+          "value": "works"
+        },
+        {
+          "id": "it.vedph.lon.letter-info",
+          "value": "info"
+        },
+        {
+          "id": "it.vedph.note",
+          "value": "note"
+        },
+        {
+          "id": "it.vedph.pin-links",
+          "value": "links"
+        },
+        {
+          "id": "it.vedph.comment",
+          "value": "comment"
+        },
+        {
+          "id": "it.vedph.ext-bibliography",
+          "value": "bibliography"
+        }
+      ]
+    },
+    {
+      "id": "categories@en",
+      "entries": [
+        {
+          "id": "architecture",
+          "value": "architecture"
+        },
+        {
+          "id": "geography",
+          "value": "geography"
+        },
+        {
+          "id": "geography.cities",
+          "value": "geography: cities"
+        },
+        {
+          "id": "geography.regions",
+          "value": "geography: regions"
+        },
+        {
+          "id": "ethnography",
+          "value": "ethnography"
+        },
+        {
+          "id": "ethnography.death",
+          "value": "ethnography: death"
+        },
+        {
+          "id": "ethnography.food",
+          "value": "ethnography: food"
+        },
+        {
+          "id": "ethnography.peoples",
+          "value": "ethnography: peoples"
+        },
+        {
+          "id": "ethnography.religion",
+          "value": "ethnography: religion"
+        },
+        {
+          "id": "ethnography.religion.deities",
+          "value": "ethnography: religion deities"
+        },
+        {
+          "id": "ethnography.religion.rites",
+          "value": "ethnography: religion rites"
+        },
+        {
+          "id": "history",
+          "value": "history"
+        },
+        {
+          "id": "language",
+          "value": "language"
+        },
+        {
+          "id": "language.phonology",
+          "value": "language: phonology"
+        },
+        {
+          "id": "language.morphology",
+          "value": "language: morphology"
+        },
+        {
+          "id": "language.syntax",
+          "value": "language: syntax"
+        },
+        {
+          "id": "literature",
+          "value": "literature"
+        }
+      ]
+    },
+    {
+      "id": "comment-categories@en",
+      "targetId": "categories"
+    },
+    {
+      "id": "languages@en",
+      "entries": [
+        {
+          "id": "eng",
+          "value": "English"
+        },
+        {
+          "id": "fre",
+          "value": "French"
+        },
+        {
+          "id": "deu",
+          "value": "German"
+        },
+        {
+          "id": "grc",
+          "value": "Ancient Greek"
+        },
+        {
+          "id": "gre",
+          "value": "Modern Greek"
+        },
+        {
+          "id": "ita",
+          "value": "Italian"
+        },
+        {
+          "id": "lat",
+          "value": "Latin"
+        },
+        {
+          "id": "spa",
+          "value": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": "letter-attachment-types@en",
+      "entries": [
+        {
+          "id": "picture",
+          "value": "picture"
+        },
+        {
+          "id": "drawing",
+          "value": "drawing"
+        }
+      ]
+    },
+    {
+      "id": "letter-info-archives@en",
+      "entries": [
+        {
+          "id": "bodleian",
+          "value": "Bodleian Library"
+        },
+        {
+          "id": "british",
+          "value": "British Library"
+        },
+        {
+          "id": "vatican",
+          "value": "Vatican Library"
+        }
+      ]
+    },
+    {
+      "id": "letter-info-features@en",
+      "entries": [
+        {
+          "id": "stamp",
+          "value": "stamp"
+        },
+        {
+          "id": "envelope",
+          "value": "envelope"
+        },
+        {
+          "id": "typed",
+          "value": "typed"
+        }
+      ]
+    },
+    {
+      "id": "letter-info-languages@en",
+      "entries": [
+        {
+          "id": "eng",
+          "value": "English"
+        },
+        {
+          "id": "fre",
+          "value": "French"
+        },
+        {
+          "id": "deu",
+          "value": "German"
+        },
+        {
+          "id": "grc",
+          "value": "Ancient Greek"
+        },
+        {
+          "id": "gre",
+          "value": "Modern Greek"
+        },
+        {
+          "id": "ita",
+          "value": "Italian"
+        },
+        {
+          "id": "lat",
+          "value": "Latin"
+        },
+        {
+          "id": "spa",
+          "value": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": "pin-link-settings@en",
+      "entries": [
+        {
+          "id": "switch-mode",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "quoted-works-ids@en",
+      "entries": [
+        {
+          "id": "alpha",
+          "value": "alpha"
+        },
+        {
+          "id": "alpha.a1",
+          "value": "alpha - A1"
+        },
+        {
+          "id": "alpha.a2",
+          "value": "alpha - A2"
+        },
+        {
+          "id": "beta",
+          "value": "beta"
+        },
+        {
+          "id": "beta.b1",
+          "value": "beta - B1"
+        },
+        {
+          "id": "beta.b2",
+          "value": "beta - B2"
+        }
+      ]
+    },
+    {
+      "id": "quoted-works-roles@en",
+      "entries": [
+       {
+          "id": "alpha",
+          "value": "alpha"
+        },
+        {
+          "id": "beta",
+          "value": "beta"
+        }
+      ]
+    }
+  ],
+  "seed": {
+    "options": {
+      "seed": 1,
+      "users": [ "zeus" ],
+      "partRoles": [],
+      "fragmentRoles": []
+    },
+    "partSeeders": [
+      {
+        "id": "seed.it.vedph.categories",
+        "options": {
+          "maxCategoriesPerItem": 3,
+          "categories": [
+            "language.phonology",
+            "language.morphology",
+            "language.syntax",
+            "literature",
+            "geography"
+          ]
+        }
+      },
+      {
+        "id": "seed.it.vedph.chronotopes"
+      },
+      {
+        "id": "seed.it.vedph.comment",
+        "options": {
+          "languages": [ "eng", "ita" ],
+          "categories": [ "language.phonology", "language.syntax", "history" ]
+        }
+      },
+      {
+        "id": "seed.it.vedph.ext-bibliography"
+      },
+      {
+        "id": "seed.it.vedph.external-ids"
+      },
+      {
+        "id": "seed.it.vedph.lon.letter-attachments"
+      },
+      {
+        "id": "seed.it.vedph.lon.letter-info"
+      },
+      {
+        "id": "seed.it.vedph.lon.quoted-works"
+      },
+      {
+        "id": "seed.it.vedph.metadata"
+      },
+      {
+        "id": "seed.it.vedph.note",
+        "options": {
+          "tags": [
+            "language",
+            "history",
+            "geography"
+          ]
+        }
+      },
+      {
+        "id": "seed.it.vedph.pin-links"
+      }
+    ],
+    "fragmentSeeders": []
+  }
+}
