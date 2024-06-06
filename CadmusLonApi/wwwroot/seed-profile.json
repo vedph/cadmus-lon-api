@@ -351,12 +351,20 @@
       "id": "letter-attachment-types@en",
       "entries": [
         {
-          "id": "picture",
-          "value": "picture"
+          "id": "literary",
+          "value": "materiale letterario"
         },
         {
           "id": "drawing",
-          "value": "drawing"
+          "value": "disegno/i"
+        },
+        {
+          "id": "picture",
+          "value": "fotografia/e"
+        },
+        {
+          "id": "other",
+          "value": "altro"
         }
       ]
     },
