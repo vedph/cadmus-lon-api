@@ -440,6 +440,19 @@
       ]
     },
     {
+      "id": "physical-size-units@en",
+      "entries": [
+        {
+          "id": "cm",
+          "value": "cm"
+        },
+        {
+          "id": "mm",
+          "value": "mm"
+        }
+      ]
+    },
+    {
       "id": "pin-link-settings@en",
       "entries": [
         {
