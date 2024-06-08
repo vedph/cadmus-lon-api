@@ -493,7 +493,11 @@
     {
       "id": "quoted-works-roles@en",
       "entries": [
-       {
+        {
+          "id": "-",
+          "value": "-"
+        },
+        {
           "id": "alpha",
           "value": "alpha"
         },
