@@ -237,73 +237,23 @@
       "id": "categories@en",
       "entries": [
         {
-          "id": "architecture",
-          "value": "architecture"
+          "id": "letter",
+          "value": "lettera"
         },
         {
-          "id": "geography",
-          "value": "geography"
+          "id": "illustrated",
+          "value": "lettera illustrata"
         },
         {
-          "id": "geography.cities",
-          "value": "geography: cities"
+          "id": "postcard",
+          "value": "cartolina"
         },
         {
-          "id": "geography.regions",
-          "value": "geography: regions"
+          "id": "card",
+          "value": "biglietto"
         },
-        {
-          "id": "ethnography",
-          "value": "ethnography"
-        },
-        {
-          "id": "ethnography.death",
-          "value": "ethnography: death"
-        },
-        {
-          "id": "ethnography.food",
-          "value": "ethnography: food"
-        },
-        {
-          "id": "ethnography.peoples",
-          "value": "ethnography: peoples"
-        },
-        {
-          "id": "ethnography.religion",
-          "value": "ethnography: religion"
-        },
-        {
-          "id": "ethnography.religion.deities",
-          "value": "ethnography: religion deities"
-        },
-        {
-          "id": "ethnography.religion.rites",
-          "value": "ethnography: religion rites"
-        },
-        {
-          "id": "history",
-          "value": "history"
-        },
-        {
-          "id": "language",
-          "value": "language"
-        },
-        {
-          "id": "language.phonology",
-          "value": "language: phonology"
-        },
-        {
-          "id": "language.morphology",
-          "value": "language: morphology"
-        },
-        {
-          "id": "language.syntax",
-          "value": "language: syntax"
-        },
-        {
-          "id": "literature",
-          "value": "literature"
-        }
+        { "id": "telegram", "value": "telegramma" },
+        { "id": "inscription", "value": "dedica" }
       ]
     },
     {
@@ -372,16 +322,76 @@
       "id": "letter-info-archives@en",
       "entries": [
         {
-          "id": "bodleian",
-          "value": "Bodleian Library"
+          "id": "-",
+          "value": "n.d."
         },
         {
-          "id": "british",
-          "value": "British Library"
+          "id": "apice",
+          "value": "APICE"
         },
         {
-          "id": "vatican",
-          "value": "Vatican Library"
+          "id": "astengo",
+          "value": "Archivio Astengo"
+        },
+        {
+          "id": "bonsanti",
+          "value": "Archivio Bonsanti"
+        },
+        {
+          "id": "bnf",
+          "value": "BNF"
+        },
+        {
+          "id": "chicago",
+          "value": "Manuscript Collection Chicago"
+        },
+        {
+          "id": "dalmati",
+          "value": "Archivio Dalmati"
+        },
+        {
+          "id": "dodd",
+          "value": "Dodd Research Center"
+        },
+        {
+          "id": "einaudi",
+          "value": "Archivio Einaudi"
+        },
+        {
+          "id": "fortini",
+          "value": "Archivio Fortini"
+        },
+        {
+          "id": "genoa",
+          "value": "BUG"
+        },
+        {
+          "id": "gobetti",
+          "value": "Centro Gobetti"
+        },
+        {
+          "id": "larbaud",
+          "value": "Fondo Larbaud"
+        },
+        {
+          "id": "lugano",
+          "value": "Biblioteca di Lugano"
+        },
+        {
+          "id": "manuscripts",
+          "value": "Centro Manoscritti"
+        },
+        {
+          "id": "pugliatti",
+          "value": "Archivio Pugliatti"
+        },
+        {
+          "id": "sacher",
+          "value": "Fondazione Sacher"
+        },
+        {
+          "id": "sapegno",
+          "value": "Fondazione Sapegno"
         }
       ]
     },
@@ -465,28 +475,280 @@
       "id": "quoted-works-ids@en",
       "entries": [
         {
-          "id": "alpha",
-          "value": "alpha"
+          "id": "genoa",
+          "value": "Quaderno genovese"
         },
         {
-          "id": "alpha.a1",
-          "value": "alpha - A1"
+          "id": "poetry.-",
+          "value": "Poesia"
         },
         {
-          "id": "alpha.a2",
-          "value": "alpha - A2"
+          "id": "poetry.bones.-",
+          "value": "Ossi di seppia"
         },
         {
-          "id": "beta",
-          "value": "beta"
+          "id": "poetry.bones.limine",
+          "value": "In limine"
         },
         {
-          "id": "beta.b1",
-          "value": "beta - B1"
+          "id": "poetry.bones.movements.-",
+          "value": "Movimenti"
         },
         {
-          "id": "beta.b2",
-          "value": "beta - B2"
+          "id": "poetry.bones.bones.-",
+          "value": "Ossi di seppia (Ossi brevi)"
+        },
+        {
+          "id": "poetry.bones.mediterranean.-",
+          "value": "Mediterraneo"
+        },
+        {
+          "id": "poetry.bones.noontides.-",
+          "value": "Meriggi e ombre"
+        },
+        {
+          "id": "poetry.bones.rivieras.-",
+          "value": "Riviere"
+        },
+        {
+          "id": "poetry.bones25",
+          "value": "Ossi di seppia (1925)"
+        },
+        {
+          "id": "poetry.bones28",
+          "value": "Ossi di seppia (1928)"
+        },
+        {
+          "id": "poetry.bones31",
+          "value": "Ossi di seppia (1931)"
+        },
+        {
+          "id": "poetry.house32",
+          "value": "La casa dei doganieri (1932)"
+        },
+        {
+          "id": "poetry.occasions.-",
+          "value": "Le occasioni"
+        },
+        {
+          "id": "poetry.occasions.balcony",
+          "value": "Il balcone"
+        },
+        {
+          "id": "poetry.occasions.motets.-",
+          "value": "Mottetti"
+        },
+        {
+          "id": "poetry.occasions39",
+          "value": "Le occasioni (1939)"
+        },
+        {
+          "id": "poetry.occasion40",
+          "value": "Le occasioni (1940)"
+        },
+        {
+          "id": "poetry.finisterre43",
+          "value": "Finisterre (1943)"
+        },
+        {
+          "id": "poetry.storm.-",
+          "value": "La Bufera e altro"
+        },
+        {
+          "id": "poetry.storm.finisterres.-",
+          "value": "Finisterre (sezione)"
+        },
+        {
+          "id": "poetry.storm.after.-",
+          "value": "Dopo"
+        },
+        {
+          "id": "poetry.storm.interlude.-",
+          "value": "Intermezzo"
+        },
+        {
+          "id": "poetry.storm.flashes.-",
+          "value": "Flashes e dediche"
+        },
+        {
+          "id": "poetry.storm.silvae.-",
+          "value": "Silvae"
+        },
+        {
+          "id": "poetry.storm.madrigals.-",
+          "value": "Madrigali privati"
+        },
+        {
+          "id": "poetry.storm.conclusions.-",
+          "value": "Conclusioni provvisorie"
+        },
+        {
+          "id": "poetry.satura62",
+          "value": "Satura (1962)"
+        },
+        {
+          "id": "poetry.xenia66",
+          "value": "Xenia (1966)"
+        },
+        {
+          "id": "poetry.satura.-",
+          "value": "Satura"
+        },
+        {
+          "id": "poetry.satura.you",
+          "value": "Il tu"
+        },
+        {
+          "id": "poetry.satura.xenia1.-",
+          "value": "Xenia I"
+        },
+        {
+          "id": "poetry.satura.xenia2.-",
+          "value": "Xenia II"
+        },
+        {
+          "id": "poetry.satura.satura1.-",
+          "value": "Satura I"
+        },
+        {
+          "id": "poetry.satura.satura2.-",
+          "value": "Saura II"
+        },
+        {
+          "id": "poetry.diary.-",
+          "value": "Diario del 71 e del 72"
+        },
+        {
+          "id": "poetry.diary.seventyone.-",
+          "value": "Diario del 71"
+        },
+        {
+          "id": "poetry.diary.seventytwo.-",
+          "value": "Diario del 72"
+        },
+        {
+          "id": "poetry.notebook.-",
+          "value": "Quaderno di quattro anni"
+        },
+        {
+          "id": "poetry.work",
+          "value": "L'opera in versi"
+        },
+        {
+          "id": "poetry.verses.-",
+          "value": "Altri versi"
+        },
+        {
+          "id": "poetry.verses.-",
+          "value": "Altri versi"
+        },
+        {
+          "id": "poetry.verses.first.-",
+          "value": "I"
+        },
+        {
+          "id": "poetry.verses.second.-",
+          "value": "II"
+        },
+        {
+          "id": "poetry.scattered.-",
+          "value": "Poesie disperse"
+        },
+        {
+          "id": "poetry.scattered.first.-",
+          "value": "I"
+        },
+        {
+          "id": "poetry.scattered.second.-",
+          "value": "II"
+        },
+        {
+          "id": "poetry.scattered.third.-",
+          "value": "III"
+        },
+        {
+          "id": "poetry.scattered.translations.-",
+          "value": "Traduzioni"
+        },
+        {
+          "id": "poetry.posthumous.-",
+          "value": "Diario postumo"
+        },
+        {
+          "id": "poetry.olgiate.-",
+          "value": "La casa di Olgiate e altri versi"
+        },
+        {
+          "id": "prose.-",
+          "value": "Prosa"
+        },
+        {
+          "id": "prose.creative.-",
+          "value": "Prose creative"
+        },
+        {
+          "id": "prose.creative.butterfly.-",
+          "value": "Farfalla di Dinard"
+        },
+        {
+          "id": "prose.creative.out",
+          "value": "Fuori di casa.-"
+        },
+        {
+          "id": "prose.creative.narrative.-",
+          "value": "Prose narrative.-"
+        },
+        {
+          "id": "prose.creative.narrative.poetry.-",
+          "value": "La poesia non esiste"
+        },
+        {
+          "id": "prose.creative.narrative.32.-",
+          "value": "Trentadue variazioni"
+        },
+        {
+          "id": "prose.critical.-",
+          "value": "Prose critiche"
+        },
+        {
+          "id": "prose.critical.autodafe.-",
+          "value": "Auto da fe"
+        },
+        {
+          "id": "prose.critical.time.-",
+          "value": "Nel nostro tempo"
+        },
+        {
+          "id": "prose.critical.poetry.-",
+          "value": "Sulla poesia"
+        },
+        {
+          "id": "prose.critical.second.-",
+          "value": "Il secondo mestiere"
+        },
+        {
+          "id": "prose.critical.second.proses.-",
+          "value": "Prose (1920-1979)"
+        },
+        {
+          "id": "prose.critical.second.art.-",
+          "value": "Arte, musica, societa"
+        },
+        {
+          "id": "translations.-",
+          "value": "Traduzioni"
+        },
+        {
+          "id": "translations.notebook.-",
+          "value": "Quaderno di traduzioni"
+        },
+        {
+          "id": "interviews.-",
+          "value": "Interviste"
+        },
+        {
+          "id": "extravagant",
+          "value": "Scritti estravaganti"
         }
       ]
     },
@@ -498,12 +760,16 @@
           "value": "-"
         },
         {
-          "id": "alpha",
-          "value": "alpha"
+          "id": "hypotext",
+          "value": "ipotesto"
         },
         {
-          "id": "beta",
-          "value": "beta"
+          "id": "reference",
+          "value": "riferimento"
+        },
+        {
+          "id": "self-commentary",
+          "value": "autocommento"
         }
       ]
     }
@@ -511,7 +777,7 @@
   "seed": {
     "options": {
       "seed": 1,
-      "users": [ "zeus" ],
+      "users": ["zeus"],
       "partRoles": [],
       "fragmentRoles": []
     },
@@ -535,8 +801,8 @@
       {
         "id": "seed.it.vedph.comment",
         "options": {
-          "languages": [ "eng", "ita" ],
-          "categories": [ "language.phonology", "language.syntax", "history" ]
+          "languages": ["eng", "ita"],
+          "categories": ["language.phonology", "language.syntax", "history"]
         }
       },
       {
@@ -560,11 +826,7 @@
       {
         "id": "seed.it.vedph.note",
         "options": {
-          "tags": [
-            "language",
-            "history",
-            "geography"
-          ]
+          "tags": ["language", "history", "geography"]
         }
       },
       {
