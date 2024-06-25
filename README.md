@@ -12,4 +12,7 @@ This is a Cadmus API layer customized for the PRJ project. Most of its code is d
 
 ## History
 
+- 2024-06-25:
+  - updated packages.
+  - seeder categories configuation.
 - 2024-06-18: updated thesauri and packages.

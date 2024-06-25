@@ -787,11 +787,8 @@
         "options": {
           "maxCategoriesPerItem": 3,
           "categories": [
-            "language.phonology",
-            "language.morphology",
-            "language.syntax",
-            "literature",
-            "geography"
+            "letter",
+            "postcard",
           ]
         }
       },
@@ -802,7 +799,7 @@
         "id": "seed.it.vedph.comment",
         "options": {
           "languages": ["eng", "ita"],
-          "categories": ["language.phonology", "language.syntax", "history"]
+          "categories": ["letter", "postcard"]
         }
       },
       {
