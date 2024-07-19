@@ -672,10 +672,6 @@
           "value": "Altri versi"
         },
         {
-          "id": "poetry.verses.-",
-          "value": "Altri versi"
-        },
-        {
           "id": "poetry.verses.first",
           "value": "I"
         },
@@ -716,7 +712,7 @@
           "value": "Prosa"
         },
         {
-          "id": "prose.creative",
+          "id": "prose.creative.-",
           "value": "Prose creative"
         },
         {
@@ -728,8 +724,8 @@
           "value": "Fuori di casa.-"
         },
         {
-          "id": "prose.creative.narrative",
-          "value": "Prose narrative.-"
+          "id": "prose.creative.narrative.-",
+          "value": "Prose narrative"
         },
         {
           "id": "prose.creative.narrative.poetry",
@@ -760,11 +756,11 @@
           "value": "Il secondo mestiere"
         },
         {
-          "id": "prose.critical.second.proses.-",
+          "id": "prose.critical.second.proses",
           "value": "Prose (1920-1979)"
         },
         {
-          "id": "prose.critical.second.art.-",
+          "id": "prose.critical.second.art",
           "value": "Arte, musica, societa"
         },
         {
