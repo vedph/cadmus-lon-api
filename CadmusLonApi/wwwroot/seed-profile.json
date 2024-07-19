@@ -524,23 +524,23 @@
           "value": "In limine"
         },
         {
-          "id": "poetry.bones.movements.-",
+          "id": "poetry.bones.movements",
           "value": "Movimenti"
         },
         {
-          "id": "poetry.bones.bones.-",
+          "id": "poetry.bones.bones",
           "value": "Ossi di seppia (Ossi brevi)"
         },
         {
-          "id": "poetry.bones.mediterranean.-",
+          "id": "poetry.bones.mediterranean",
           "value": "Mediterraneo"
         },
         {
-          "id": "poetry.bones.noontides.-",
+          "id": "poetry.bones.noontides",
           "value": "Meriggi e ombre"
         },
         {
-          "id": "poetry.bones.rivieras.-",
+          "id": "poetry.bones.rivieras",
           "value": "Riviere"
         },
         {
@@ -568,7 +568,7 @@
           "value": "Il balcone"
         },
         {
-          "id": "poetry.occasions.motets.-",
+          "id": "poetry.occasions.motets",
           "value": "Mottetti"
         },
         {
@@ -588,31 +588,31 @@
           "value": "La Bufera e altro"
         },
         {
-          "id": "poetry.storm.finisterres.-",
+          "id": "poetry.storm.finisterres",
           "value": "Finisterre (sezione)"
         },
         {
-          "id": "poetry.storm.after.-",
+          "id": "poetry.storm.after",
           "value": "Dopo"
         },
         {
-          "id": "poetry.storm.interlude.-",
+          "id": "poetry.storm.interlude",
           "value": "Intermezzo"
         },
         {
-          "id": "poetry.storm.flashes.-",
+          "id": "poetry.storm.flashes",
           "value": "Flashes e dediche"
         },
         {
-          "id": "poetry.storm.silvae.-",
+          "id": "poetry.storm.silvae",
           "value": "Silvae"
         },
         {
-          "id": "poetry.storm.madrigals.-",
+          "id": "poetry.storm.madrigals",
           "value": "Madrigali privati"
         },
         {
-          "id": "poetry.storm.conclusions.-",
+          "id": "poetry.storm.conclusions",
           "value": "Conclusioni provvisorie"
         },
         {
@@ -632,19 +632,19 @@
           "value": "Il tu"
         },
         {
-          "id": "poetry.satura.xenia1.-",
+          "id": "poetry.satura.xenia1",
           "value": "Xenia I"
         },
         {
-          "id": "poetry.satura.xenia2.-",
+          "id": "poetry.satura.xenia2",
           "value": "Xenia II"
         },
         {
-          "id": "poetry.satura.satura1.-",
+          "id": "poetry.satura.satura1",
           "value": "Satura I"
         },
         {
-          "id": "poetry.satura.satura2.-",
+          "id": "poetry.satura.satura2",
           "value": "Saura II"
         },
         {
@@ -652,15 +652,15 @@
           "value": "Diario del 71 e del 72"
         },
         {
-          "id": "poetry.diary.seventyone.-",
+          "id": "poetry.diary.seventyone",
           "value": "Diario del 71"
         },
         {
-          "id": "poetry.diary.seventytwo.-",
+          "id": "poetry.diary.seventytwo",
           "value": "Diario del 72"
         },
         {
-          "id": "poetry.notebook.-",
+          "id": "poetry.notebook",
           "value": "Quaderno di quattro anni"
         },
         {
@@ -676,11 +676,11 @@
           "value": "Altri versi"
         },
         {
-          "id": "poetry.verses.first.-",
+          "id": "poetry.verses.first",
           "value": "I"
         },
         {
-          "id": "poetry.verses.second.-",
+          "id": "poetry.verses.second",
           "value": "II"
         },
         {
@@ -688,27 +688,27 @@
           "value": "Poesie disperse"
         },
         {
-          "id": "poetry.scattered.first.-",
+          "id": "poetry.scattered.first",
           "value": "I"
         },
         {
-          "id": "poetry.scattered.second.-",
+          "id": "poetry.scattered.second",
           "value": "II"
         },
         {
-          "id": "poetry.scattered.third.-",
+          "id": "poetry.scattered.third",
           "value": "III"
         },
         {
-          "id": "poetry.scattered.translations.-",
+          "id": "poetry.scattered.translations",
           "value": "Traduzioni"
         },
         {
-          "id": "poetry.posthumous.-",
+          "id": "poetry.posthumous",
           "value": "Diario postumo"
         },
         {
-          "id": "poetry.olgiate.-",
+          "id": "poetry.olgiate",
           "value": "La casa di Olgiate e altri versi"
         },
         {
@@ -716,11 +716,11 @@
           "value": "Prosa"
         },
         {
-          "id": "prose.creative.-",
+          "id": "prose.creative",
           "value": "Prose creative"
         },
         {
-          "id": "prose.creative.butterfly.-",
+          "id": "prose.creative.butterfly",
           "value": "Farfalla di Dinard"
         },
         {
@@ -728,15 +728,15 @@
           "value": "Fuori di casa.-"
         },
         {
-          "id": "prose.creative.narrative.-",
+          "id": "prose.creative.narrative",
           "value": "Prose narrative.-"
         },
         {
-          "id": "prose.creative.narrative.poetry.-",
+          "id": "prose.creative.narrative.poetry",
           "value": "La poesia non esiste"
         },
         {
-          "id": "prose.creative.narrative.32.-",
+          "id": "prose.creative.narrative.32",
           "value": "Trentadue variazioni"
         },
         {
@@ -744,15 +744,15 @@
           "value": "Prose critiche"
         },
         {
-          "id": "prose.critical.autodafe.-",
+          "id": "prose.critical.autodafe",
           "value": "Auto da fe"
         },
         {
-          "id": "prose.critical.time.-",
+          "id": "prose.critical.time",
           "value": "Nel nostro tempo"
         },
         {
-          "id": "prose.critical.poetry.-",
+          "id": "prose.critical.poetry",
           "value": "Sulla poesia"
         },
         {
@@ -772,11 +772,11 @@
           "value": "Traduzioni"
         },
         {
-          "id": "translations.notebook.-",
+          "id": "translations.notebook",
           "value": "Quaderno di traduzioni"
         },
         {
-          "id": "interviews.-",
+          "id": "interviews",
           "value": "Interviste"
         },
         {
