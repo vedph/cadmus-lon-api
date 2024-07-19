@@ -143,6 +143,39 @@
           "sortKey": "p"
         }
       ]
+    },
+    {
+      "id": "person",
+      "label": "person",
+      "description": "The person facet",
+      "colorKey": "F8C0C0",
+      "partDefinitions": [
+        {
+          "typeId": "it.vedph.metadata",
+          "name": "metadata",
+          "description": "Generic metadata.",
+          "isRequired": true,
+          "colorKey": "F8C0C0",
+          "groupKey": "general",
+          "sortKey": "a"
+        },
+        {
+          "typeId": "it.vedph.external-ids",
+          "name": "IDs",
+          "description": "External identifiers for the person.",
+          "colorKey": "BEE0CA",
+          "groupKey": "general",
+          "sortKey": "b"
+        },
+        {
+          "typeId": "it.vedph.note",
+          "name": "note",
+          "description": "A free text note.",
+          "colorKey": "9285A6",
+          "groupKey": "general",
+          "sortKey": "c"
+        }
+      ]
     }
   ],
   "flags": [
