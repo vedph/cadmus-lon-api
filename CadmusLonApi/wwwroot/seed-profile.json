@@ -110,12 +110,21 @@
         },
         {
           "typeId": "it.vedph.note",
+          "roleId": "sign",
+          "name": "sign",
+          "description": "Letter's signature.",
+          "colorKey": "A0BEF8",
+          "groupKey": "content",
+          "sortKey": "m"
+        },
+        {
+          "typeId": "it.vedph.note",
           "roleId": "text",
           "name": "text",
           "description": "Letter's text.",
           "colorKey": "53BDA4",
           "groupKey": "content",
-          "sortKey": "m"
+          "sortKey": "n"
         },
         {
           "typeId": "it.vedph.lon.quoted-works",
@@ -123,7 +132,7 @@
           "description": "Works quoted in the letter.",
           "colorKey": "C8D1A1",
           "groupKey": "editorial",
-          "sortKey": "n"
+          "sortKey": "o"
         },
         {
           "typeId": "it.vedph.ext-bibliography",
@@ -131,7 +140,7 @@
           "description": "External bibliography.",
           "colorKey": "B4CC4E",
           "groupKey": "editorial",
-          "sortKey": "o"
+          "sortKey": "p"
         },
         {
           "typeId": "it.vedph.note",
@@ -140,7 +149,7 @@
           "description": "A free text note.",
           "colorKey": "9285A6",
           "groupKey": "editorial",
-          "sortKey": "p"
+          "sortKey": "q"
         }
       ]
     },
