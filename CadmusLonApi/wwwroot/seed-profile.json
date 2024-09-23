@@ -183,6 +183,14 @@
           "colorKey": "9285A6",
           "groupKey": "general",
           "sortKey": "c"
+        },
+        {
+          "typeId": "it.vedph.ext-bibliography",
+          "name": "biblio",
+          "description": "External bibliography.",
+          "colorKey": "B4CC4E",
+          "groupKey": "editorial",
+          "sortKey": "d"
         }
       ]
     }

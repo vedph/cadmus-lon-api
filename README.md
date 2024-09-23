@@ -15,6 +15,8 @@ This is a Cadmus API layer customized for the PRJ project. Most of its code is d
 
 ## History
 
+- 2024-09-23: added bibliography to person facet and updated packages.
+
 ### 0.0.6
 
 - 2024-08-30: updated packages.
