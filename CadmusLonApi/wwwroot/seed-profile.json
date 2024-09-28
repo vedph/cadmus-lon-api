@@ -213,6 +213,18 @@
       "label": "undisclosed",
       "description": "The item is undisclosed.",
       "colorKey": "CF6069"
+    },
+    {
+      "id": 8,
+      "label": "draft",
+      "description": "The item is a draft.",
+      "colorKey": "D4A5A5"
+    },
+    {
+      "id": 16,
+      "label": "template",
+      "description": "The item is a template.",
+      "colorKey": "C0C0C0"
     }
   ],
   "index": {

@@ -3,11 +3,11 @@
 - [Cadmus LON models](https://github.com/vedph/cadmus-lon)
 - [Cadmus LON app](https://github.com/vedph/cadmus-lon-app)
 
-🐋 Quick Docker image build (not just `docker build . -t vedph2020/cadmus-lon-api:0.0.6 -t vedph2020/cadmus-lon-api:latest` because we need to distinguish between X86 and ARM for CPU like M2, so I added `--platform=$BUILDPLATFORM` in Dockerfile):
+🐋 Quick Docker image build (not just `docker build . -t vedph2020/cadmus-lon-api:0.0.7 -t vedph2020/cadmus-lon-api:latest` because we need to distinguish between X86 and ARM for CPU like M2, so I added `--platform=$BUILDPLATFORM` in Dockerfile):
 
-    docker build . --build-arg BUILDPLATFORM=linux -t vedph2020/cadmus-lon-api:0.0.6 -t vedph2020/cadmus-lon-api:latest
+    docker build . --build-arg BUILDPLATFORM=linux -t vedph2020/cadmus-lon-api:0.0.7 -t vedph2020/cadmus-lon-api:latest
 
-    docker build . --build-arg BUILDPLATFORM=arm64 -t vedph2020/cadmus-lon-api_arm:0.0.6 -t vedph2020/cadmus-lon-api_arm:latest
+    docker build . --build-arg BUILDPLATFORM=arm64 -t vedph2020/cadmus-lon-api_arm:0.0.7 -t vedph2020/cadmus-lon-api_arm:latest
 
 (replace with the current version).
 
@@ -15,6 +15,9 @@ This is a Cadmus API layer customized for the PRJ project. Most of its code is d
 
 ## History
 
+### 0.0.7
+
+- 2024-09-28: updated packages (new endpoints in API).
 - 2024-09-23: added bibliography to person facet and updated packages.
 
 ### 0.0.6
