@@ -535,14 +535,19 @@
     },
     {
       "id": "quoted-works-ids@en",
+      "language": "en",
       "entries": [
         {
           "id": "genoa",
           "value": "Quaderno genovese"
         },
         {
-          "id": "poetry.-",
+          "id": "poetry",
           "value": "Poesia"
+        },
+        {
+          "id": "poetry.bones",
+          "value": "Ossi di seppia"
         },
         {
           "id": "poetry.bones.-",
@@ -557,7 +562,23 @@
           "value": "Movimenti"
         },
         {
+          "id": "poetry.bones.movements.-",
+          "value": "Movimenti"
+        },
+        {
+          "id": "poetry.bones.movements.falsetto",
+          "value": "Falsetto"
+        },
+        {
+          "id": "poetry.bones.movements.lemons",
+          "value": "I limoni"
+        },
+        {
           "id": "poetry.bones.bones",
+          "value": "Ossi di seppia (Ossi brevi)"
+        },
+        {
+          "id": "poetry.bones.bones.-",
           "value": "Ossi di seppia (Ossi brevi)"
         },
         {
@@ -565,11 +586,55 @@
           "value": "Mediterraneo"
         },
         {
+          "id": "poetry.bones.mediterranean.-",
+          "value": "Mediterraneo"
+        },
+        {
           "id": "poetry.bones.noontides",
           "value": "Meriggi e ombre"
         },
         {
+          "id": "poetry.bones.noontides.-",
+          "value": "Meriggi e ombre"
+        },
+        {
+          "id": "poetry.bones.noontides.first",
+          "value": "I"
+        },
+        {
+          "id": "poetry.bones.noontides.first.-",
+          "value": "I"
+        },
+        {
+          "id": "poetry.bones.noontides.second",
+          "value": "II"
+        },
+        {
+          "id": "poetry.bones.noontides.second.-",
+          "value": "II"
+        },
+        {
+          "id": "poetry.bones.noontides.second.arsenio",
+          "value": "Arsenio"
+        },
+        {
+          "id": "poetry.bones.noontides.third",
+          "value": "III"
+        },
+        {
+          "id": "poetry.bones.noontides.third.-",
+          "value": "III"
+        },
+        {
+          "id": "poetry.bones.noontides.house",
+          "value": "Casa sul mare"
+        },
+        {
           "id": "poetry.bones.rivieras",
+          "value": "Riviere"
+        },
+        {
+          "id": "poetry.bones.rivieras.-",
           "value": "Riviere"
         },
         {
@@ -589,6 +654,10 @@
           "value": "La casa dei doganieri (1932)"
         },
         {
+          "id": "poetry.occasions",
+          "value": "Le occasioni"
+        },
+        {
           "id": "poetry.occasions.-",
           "value": "Le occasioni"
         },
@@ -597,8 +666,64 @@
           "value": "Il balcone"
         },
         {
+          "id": "poetry.occasions.first",
+          "value": "I"
+        },
+        {
+          "id": "poetry.occasions.first.-",
+          "value": "I"
+        },
+        {
+          "id": "poetry.occasions.first.buffalo",
+          "value": "Buffalo"
+        },
+        {
+          "id": "poetry.occasions.first.keepsake",
+          "value": "Keepsake"
+        },
+        {
           "id": "poetry.occasions.motets",
           "value": "Mottetti"
+        },
+        {
+          "id": "poetry.occasions.motets.-",
+          "value": "Mottetti"
+        },
+        {
+          "id": "poetry.occasions.third",
+          "value": "III"
+        },
+        {
+          "id": "poetry.occasions.third.-",
+          "value": "III"
+        },
+        {
+          "id": "poetry.occasions.third.bellosguardo",
+          "value": "Tempi di Bellosguardo"
+        },
+        {
+          "id": "poetry.occasions.third.bellosguardo.-",
+          "value": "Tempi di Bellosguardo"
+        },
+        {
+          "id": "poetry.occasions.fourth",
+          "value": "IV"
+        },
+        {
+          "id": "poetry.occasions.fourth.-",
+          "value": "IV"
+        },
+        {
+          "id": "poetry.occasions.fourth.newstanzas",
+          "value": "Nuove stanze"
+        },
+        {
+          "id": "poetry.occasions.fourth.costa",
+          "value": "Costa San Giorgio"
+        },
+        {
+          "id": "poetry.occasions.fourth.eastbourne",
+          "value": "Eastbourne"
         },
         {
           "id": "poetry.occasions39",
@@ -613,6 +738,10 @@
           "value": "Finisterre (1943)"
         },
         {
+          "id": "poetry.storm",
+          "value": "La Bufera e altro"
+        },
+        {
           "id": "poetry.storm.-",
           "value": "La Bufera e altro"
         },
@@ -621,7 +750,19 @@
           "value": "Finisterre (sezione)"
         },
         {
+          "id": "poetry.storm.finisterres.-",
+          "value": "Finisterre (sezione)"
+        },
+        {
+          "id": "poetry.storm.finisterres.earrings",
+          "value": "Gli orecchini"
+        },
+        {
           "id": "poetry.storm.after",
+          "value": "Dopo"
+        },
+        {
+          "id": "poetry.storm.after.-",
           "value": "Dopo"
         },
         {
@@ -629,7 +770,15 @@
           "value": "Intermezzo"
         },
         {
+          "id": "poetry.storm.interlude.-",
+          "value": "Intermezzo"
+        },
+        {
           "id": "poetry.storm.flashes",
+          "value": "Flashes e dediche"
+        },
+        {
+          "id": "poetry.storm.flashes.-",
           "value": "Flashes e dediche"
         },
         {
@@ -637,11 +786,23 @@
           "value": "Silvae"
         },
         {
+          "id": "poetry.storm.silvae.-",
+          "value": "Silvae"
+        },
+        {
           "id": "poetry.storm.madrigals",
           "value": "Madrigali privati"
         },
         {
+          "id": "poetry.storm.madrigals.-",
+          "value": "Madrigali privati"
+        },
+        {
           "id": "poetry.storm.conclusions",
+          "value": "Conclusioni provvisorie"
+        },
+        {
+          "id": "poetry.storm.conclusions.-",
           "value": "Conclusioni provvisorie"
         },
         {
@@ -651,6 +812,10 @@
         {
           "id": "poetry.xenia66",
           "value": "Xenia (1966)"
+        },
+        {
+          "id": "poetry.satura",
+          "value": "Satura"
         },
         {
           "id": "poetry.satura.-",
@@ -665,7 +830,15 @@
           "value": "Xenia I"
         },
         {
+          "id": "poetry.satura.xenia1.-",
+          "value": "Xenia I"
+        },
+        {
           "id": "poetry.satura.xenia2",
+          "value": "Xenia II"
+        },
+        {
+          "id": "poetry.satura.xenia2.-",
           "value": "Xenia II"
         },
         {
@@ -673,28 +846,72 @@
           "value": "Satura I"
         },
         {
+          "id": "poetry.satura.satura1.-",
+          "value": "Satura I"
+        },
+        {
           "id": "poetry.satura.satura2",
-          "value": "Saura II"
+          "value": "Satura II"
+        },
+        {
+          "id": "poetry.satura.satura2.-",
+          "value": "Satura II"
+        },
+        {
+          "id": "poetry.satura.satura2.venetianproses",
+          "value": "Due prose veneziane"
+        },
+        {
+          "id": "poetry.satura.satura2.venetianproses.-",
+          "value": "I"
+        },
+        {
+          "id": "poetry.satura.satura2.venetianproses.first",
+          "value": "II"
+        },
+        {
+          "id": "poetry.diary",
+          "value": "Diario del '71 e del '72"
         },
         {
           "id": "poetry.diary.-",
-          "value": "Diario del 71 e del 72"
+          "value": "Diario del '71 e del '72"
         },
         {
           "id": "poetry.diary.seventyone",
-          "value": "Diario del 71"
+          "value": "Diario del '71"
+        },
+        {
+          "id": "poetry.diary.seventyone.-",
+          "value": "Diario del '71"
+        },
+        {
+          "id": "poetry.diary.seventyone.toc",
+          "value": "A C."
         },
         {
           "id": "poetry.diary.seventytwo",
-          "value": "Diario del 72"
+          "value": "Diario del '72"
+        },
+        {
+          "id": "poetry.diary.seventytwo.-",
+          "value": "Diario del '72"
         },
         {
           "id": "poetry.notebook",
           "value": "Quaderno di quattro anni"
         },
         {
+          "id": "poetry.notebook.-",
+          "value": "Quaderno di quattro anni"
+        },
+        {
           "id": "poetry.work",
           "value": "L'opera in versi"
+        },
+        {
+          "id": "poetry.verses",
+          "value": "Altri versi"
         },
         {
           "id": "poetry.verses.-",
@@ -705,8 +922,28 @@
           "value": "I"
         },
         {
+          "id": "poetry.verses.first.-",
+          "value": "I"
+        },
+        {
           "id": "poetry.verses.second",
           "value": "II"
+        },
+        {
+          "id": "poetry.verses.second.-",
+          "value": "II"
+        },
+        {
+          "id": "poetry.verses.second.clizia",
+          "value": "Clizia nel '34"
+        },
+        {
+          "id": "poetry.verses.second.insideout",
+          "value": "Interno/Esterno"
+        },
+        {
+          "id": "poetry.scattered",
+          "value": "Poesie disperse"
         },
         {
           "id": "poetry.scattered.-",
@@ -717,7 +954,23 @@
           "value": "I"
         },
         {
+          "id": "poetry.scattered.first.-",
+          "value": "I"
+        },
+        {
+          "id": "poetry.scattered.first.montaleatwar",
+          "value": "Montale in guerra"
+        },
+        {
+          "id": "poetry.scattered.first.pianoplaying",
+          "value": "Suonatina di pianoforte"
+        },
+        {
           "id": "poetry.scattered.second",
+          "value": "II"
+        },
+        {
+          "id": "poetry.scattered.second.-",
           "value": "II"
         },
         {
@@ -725,7 +978,15 @@
           "value": "III"
         },
         {
+          "id": "poetry.scattered.third.-",
+          "value": "III"
+        },
+        {
           "id": "poetry.scattered.translations",
+          "value": "Traduzioni"
+        },
+        {
+          "id": "poetry.scattered.translations.-",
           "value": "Traduzioni"
         },
         {
@@ -733,12 +994,24 @@
           "value": "Diario postumo"
         },
         {
+          "id": "poetry.posthumous.-",
+          "value": "Diario postumo"
+        },
+        {
           "id": "poetry.olgiate",
           "value": "La casa di Olgiate e altri versi"
         },
         {
-          "id": "prose.-",
+          "id": "poetry.olgiate.-",
+          "value": "La casa di Olgiate e altri versi"
+        },
+        {
+          "id": "prose",
           "value": "Prosa"
+        },
+        {
+          "id": "prose.creative",
+          "value": "Prose creative"
         },
         {
           "id": "prose.creative.-",
@@ -749,8 +1022,24 @@
           "value": "Farfalla di Dinard"
         },
         {
+          "id": "prose.creative.butterfly.-",
+          "value": "Farfalla di Dinard"
+        },
+        {
+          "id": "prose.creative.butterfly.convicted",
+          "value": "Il condannato"
+        },
+        {
           "id": "prose.creative.out",
-          "value": "Fuori di casa.-"
+          "value": "Fuori di casa"
+        },
+        {
+          "id": "prose.creative.out.-",
+          "value": "Fuori di casa"
+        },
+        {
+          "id": "prose.creative.narrative",
+          "value": "Prose narrative"
         },
         {
           "id": "prose.creative.narrative.-",
@@ -761,8 +1050,20 @@
           "value": "La poesia non esiste"
         },
         {
+          "id": "prose.creative.narrative.poetry.-",
+          "value": "La poesia non esiste"
+        },
+        {
           "id": "prose.creative.narrative.32",
           "value": "Trentadue variazioni"
+        },
+        {
+          "id": "prose.creative.narrative.32.-",
+          "value": "Trentadue variazioni"
+        },
+        {
+          "id": "prose.critical",
+          "value": "Prose critiche"
         },
         {
           "id": "prose.critical.-",
@@ -773,12 +1074,40 @@
           "value": "Auto da fe"
         },
         {
+          "id": "prose.critical.autodafe.-",
+          "value": "Auto da fe"
+        },
+        {
           "id": "prose.critical.time",
+          "value": "Nel nostro tempo"
+        },
+        {
+          "id": "prose.critical.time.-",
           "value": "Nel nostro tempo"
         },
         {
           "id": "prose.critical.poetry",
           "value": "Sulla poesia"
+        },
+        {
+          "id": "prose.critical.poetry.-",
+          "value": "Sulla poesia"
+        },
+        {
+          "id": "prose.critical.poetry.italian",
+          "value": "Poeti italiani"
+        },
+        {
+          "id": "prose.critical.poetry.italian.-",
+          "value": "Poeti italiani"
+        },
+        {
+          "id": "prose.critical.poetry.italian.sbarbaro",
+          "value": "Camillo Sbarbaro"
+        },
+        {
+          "id": "prose.critical.second",
+          "value": "Il secondo mestiere"
         },
         {
           "id": "prose.critical.second.-",
@@ -789,11 +1118,23 @@
           "value": "Prose (1920-1979)"
         },
         {
+          "id": "prose.critical.second.proses.-",
+          "value": "Prose (1920-1979)"
+        },
+        {
+          "id": "prose.critical.second.proses.cecchi",
+          "value": "Chiose. Emilio Cecchi"
+        },
+        {
           "id": "prose.critical.second.art",
           "value": "Arte, musica, societa"
         },
         {
-          "id": "translations.-",
+          "id": "prose.critical.second.art.-",
+          "value": "Arte, musica, societa"
+        },
+        {
+          "id": "translations",
           "value": "Traduzioni"
         },
         {
@@ -801,11 +1142,23 @@
           "value": "Quaderno di traduzioni"
         },
         {
+          "id": "translations.notebook.-",
+          "value": "Quaderno di traduzioni"
+        },
+        {
           "id": "interviews",
           "value": "Interviste"
         },
         {
+          "id": "interviews.-",
+          "value": "Interviste"
+        },
+        {
           "id": "extravagant",
+          "value": "Scritti estravaganti"
+        },
+        {
+          "id": "extravagant.-",
           "value": "Scritti estravaganti"
         }
       ]
