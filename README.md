@@ -3,11 +3,13 @@
 - [Cadmus LON models](https://github.com/vedph/cadmus-lon)
 - [Cadmus LON app](https://github.com/vedph/cadmus-lon-app)
 
-🐋 Quick Docker image build (not just `docker build . -t vedph2020/cadmus-lon-api:1.0.1 -t vedph2020/cadmus-lon-api:latest` because we need to distinguish between X86 and ARM for CPU like M2, so I added `--platform=$BUILDPLATFORM` in Dockerfile):
+- 🐋 Quick Docker image build (you need to have a `buildx` container):
 
-    docker build . --build-arg BUILDPLATFORM=linux -t vedph2020/cadmus-lon-api:1.0.1 -t vedph2020/cadmus-lon-api:latest
+```bash
+docker buildx create --use
 
-    docker build . --build-arg BUILDPLATFORM=arm64 -t vedph2020/cadmus-lon-api_arm:0.0.7 -t vedph2020/cadmus-lon-api_arm:latest
+docker buildx build . --platform linux/amd64,linux/arm64 -t vedph2020/cadmus-lon-api:1.0.1 -t vedph2020/cadmus-lon-api:latest --push
+```
 
 (replace with the current version).
 
