@@ -17,6 +17,9 @@ This is a Cadmus API layer customized for the PRJ project. Most of its code is d
 
 ## History
 
+- 2025-11-09:
+  - updated packages.
+  - added export controllers (for stats).
 - 2025-06-03:
   - updated packages.
   - updated preview profile.
